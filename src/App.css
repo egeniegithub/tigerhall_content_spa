@@ -1,0 +1,25 @@
+.Main-Search{ 
+  display: flex; 
+  justify-content:center;
+  padding-bottom: 10px;
+}
+.App {
+ display: flex;
+ flex-direction: column;
+ width: 250px;
+}
+
+.mainCard-Container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:center
+} 
+div.loader{
+  display: flex;
+  justify-content:center;
+  padding-top:40%;
+}
+.searchIcon{
+  color : white;
+}
